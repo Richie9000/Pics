@@ -2,6 +2,10 @@
 
 Simple web app created in React (using class components), user can write a word in the search bar and the app we will render a list of images related with that word.
 
+## Screenshot
+
+- ![snapshot](./snapshot.png)
+
 ## Built With
 
 - ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
