@@ -13,7 +13,11 @@ Simple web app created in React (using class components), user can write a word 
 
 ## Install
 
-`git clone <this repo>` on your terminal.
+To get a local copy up and running follow these simple steps:
+
+1. Go to the [repository page](https://github.com/Richie9000/pics).
+2. Press the "Code" button and copy the link.
+3. Clone it using git command `git clone <link>`.
 
 ### `npm start`
 
