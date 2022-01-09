@@ -24,7 +24,7 @@ You may also see any lint errors in the console.
 👤 _Ricardo R_
 
 - GitHub: [@Richie9000](https://github.com/Richie9000)
-- Linkedin [Ricardo Rodriguez](https://www.linkedin.com/in/ricardo-rod/)
+- Linkedin [Ricardo Rodriguez](https://www.linkedin.com/in/ricardorodr/)
 
 ## Learn More
 
